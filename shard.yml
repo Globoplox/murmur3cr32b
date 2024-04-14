@@ -1,0 +1,9 @@
+name: murmur3cr32b
+version: 1.0.0
+
+authors:
+  - globoplox <globoplox@gmail.com>
+
+crystal: '>= 1.12.0'
+
+license: MIT
